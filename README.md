@@ -11,7 +11,7 @@
 In which, each will have a different coding.
 
 
-e.g. N-08.12 is a white flag
+*e.g.* **N-08.12** is a white flag
 
 
 # Why Newercode?
