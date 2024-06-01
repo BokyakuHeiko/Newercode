@@ -14,3 +14,20 @@
 
 
 **Newercode** will develop slowly, but eventually will have what it needs.
+
+
+
+# Labeling
+
+| Category  | Code |
+| ------------- | ------------- |
+| Faces  | 01.  |
+| People  | 02.  |
+| Food  | 03.  |
+| Activities  | 04.  |
+| Vehicles  | 05.  |
+| Places  | 06.  |
+| Objects  | 07.  |
+| Flags  | 08.  |
+| Countries  | 09.  |
+| Symbols  | 10.  |
