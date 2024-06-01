@@ -8,6 +8,11 @@
 # Newcode
 **Newcode** is the name of each code for an addition, such as, if we add a flag, it will be a **Newcode**
 
+In which, each will have a different coding.
+
+
+e.g. N-08.12 is a white flag
+
 
 # Why Newercode?
 **Newercode** started when **me** got a bit furious to the fact that another organization has basically denied some symbols that could be very important, including pride flags
